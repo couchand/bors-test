@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:couchand/bors-test.git",
   "author": "Andrew Couch <andrew@cockroachlabs.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "node pass.js"
+  }
 }
