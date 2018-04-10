@@ -6,6 +6,6 @@
   "author": "Andrew Couch <andrew@cockroachlabs.com>",
   "license": "MIT",
   "scripts": {
-    "test": "node fail.js"
+    "test": "node pass.js"
   }
 }
